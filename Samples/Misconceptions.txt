@@ -1,0 +1,5 @@
+﻿Means objects are Garbage Collected more quickly. (Incorrect).
+Its a good way to make sure all your references are set to null. (Not necessary).
+Its good practice to implement all the time. (Incorrect).
+The Garbage Collector calls IDisposable.Dispose() automatically. (Incorrect).
+Its a good idea when you are creating lots of objects in a short period of time.  (There is a better way).
